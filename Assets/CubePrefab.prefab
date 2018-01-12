@@ -24,7 +24,7 @@ GameObject:
   - component: {fileID: 61180956587824902}
   - component: {fileID: 114880835755844574}
   m_Layer: 0
-  m_Name: block_0
+  m_Name: CubePrefab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
